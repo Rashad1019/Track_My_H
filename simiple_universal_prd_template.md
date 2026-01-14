@@ -11,6 +11,7 @@
 **Name:** Job Application Tracker  
 **Type:** Web Application (React)  
 **Status:** ✅ Complete (MVP)  
+**Live Demo:** https://tracksample.vercel.app/  
 **GitHub:** https://github.com/Rashad1019/Track_My_H  
 **Contact:** Rashad19@outlook.com
 
@@ -135,6 +136,7 @@ Stop using messy spreadsheets or losing applications in your email. This tracker
 
 | Resource | Link |
 |----------|------|
+| 🚀 Live Demo | https://tracksample.vercel.app/ |
 | GitHub Repository | https://github.com/Rashad1019/Track_My_H |
 | README | [README.md](job-tracker/README.md) |
 | Summary Report | [summary_report.md](summary_report.md) |

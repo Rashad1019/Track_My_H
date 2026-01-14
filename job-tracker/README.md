@@ -6,6 +6,8 @@ A simple, elegant tool to help you keep track of all your job applications in on
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+### 🔗 [Live Demo](https://tracksample.vercel.app/)
+
 ---
 
 ## 🎯 What It Does
