@@ -8,6 +8,8 @@ A simple, elegant tool to help you keep track of all your job applications in on
 
 ### 🔗 [Live Demo](https://tracksample.vercel.app/)
 
+> ⚠️ **Privacy Note:** The live demo is great for trying the app, but since this tracks your personal job applications, we recommend running it locally on your own computer. Your data stays private on your device.
+
 ---
 
 ## 🎯 What It Does

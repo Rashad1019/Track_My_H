@@ -63,6 +63,8 @@
 
 🚀 **Live Demo:** https://tracksample.vercel.app/
 
+> ⚠️ **Privacy Tip:** The live demo is perfect for testing, but since you'll be tracking personal job applications, we recommend downloading and running the app locally. That way, your data stays 100% private on your own device.
+
 🔗 **GitHub:** https://github.com/Rashad1019/Track_My_H
 
 📧 **Questions?** Contact: Rashad19@outlook.com
